@@ -24,3 +24,5 @@ The next task is **conversation management**. The chatbot keeps track of the con
 Finally, the task includes **testing and improvement**. The chatbot is tested with different types of user inputs to check accuracy and performance. Based on user feedback, the system is improved by updating data, rules, or models.
 Overall, the NLP Chatbot task focuses on building an intelligent system that can understand human language and respond effectively, providing a smooth and interactive user experience.
 
+#OUTPUT:
+<img width="1920" height="607" alt="Image" src="https://github.com/user-attachments/assets/98d45cb2-1fdb-4436-a6bc-941e4a864e47" />
